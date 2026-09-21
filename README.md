@@ -1,4 +1,6 @@
-# CV Only HTML
+# Single-Page CV (HTML Only)
+
+Project URL: https://roadmap.sh/projects/single-page-cv
 
 A clean, responsive single-page Curriculum Vitae (CV) built strictly with semantic HTML5, SEO meta tags, Open Graph (OG) tags, and favicon.
 
